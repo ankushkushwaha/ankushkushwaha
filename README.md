@@ -1,5 +1,5 @@
 
-I am always looking to collaborate in open source projects, if you need help feel free to contact.
+I am looking to collaborate in open source projects, if you need help feel free to contact.
 
 <!--
 **ankushkushwaha/ankushkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
