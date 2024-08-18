@@ -1,11 +1,6 @@
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ankush....;Lead+Mobile+Engineer!;&center=true&size=25">
-  </a>
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=440&height=45&lines=Lead+Mobile+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
