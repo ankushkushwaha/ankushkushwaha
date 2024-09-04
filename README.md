@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=I%20do%20open%20source&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=500&color=47B143&center=true&multiline=true&width=1000&height=150&lines=Lead+engineer+with+12%2B+years+of;experience+in+Mobile+development.;I+have+also+worked+as+team+lead;delivery+manager+and+Mobile+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=500&color=47B143&center=true&multiline=true&width=1000&height=150&lines=Lead+engineer+with+many+years+of;experience+in+Mobile+development.;I+have+also+worked+as+team+lead;delivery+manager+and+Mobile+Architect)](https://git.io/typing-svg)
 
 I am looking to collaborate in open source projects, if you need help feel free to contact.
 
